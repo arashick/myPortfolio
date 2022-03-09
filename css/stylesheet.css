@@ -209,7 +209,5 @@ img.media-1 {
 }
 
 @media (max-width: 768px) {
-    body {
-        width: 50%;
-    }
+    
 }
