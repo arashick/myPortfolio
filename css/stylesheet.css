@@ -4,6 +4,7 @@ body {
 }
 
 header {
+    
     background-color: rgb(250, 127, 223);
     height: 200px;
 }
@@ -206,8 +207,4 @@ img.media-1 {
     top: -800px;
     left: 800px;
     color: white;
-}
-
-@media (max-width: 768px) {
-    
 }

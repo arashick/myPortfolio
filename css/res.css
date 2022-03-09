@@ -1,0 +1,137 @@
+@media screen and (max-width: 768px) {
+    body {
+        width: 30%;
+    }
+
+    header {
+        width: 600px;
+    }
+
+    h1 {
+        font-size: 30px;
+    }
+
+    li {
+        float: right;
+    }
+
+    img {
+        width: 600px;
+    }
+
+    img.introBack {
+        height: 500px;
+    }
+
+    h2 {
+        font-size: 50px;
+        position: relative;
+        top: 50px;
+        left: 50px;
+        letter-spacing: 30px;
+    }
+
+    h3 {
+        font-size: 17px;
+        position: relative;
+        top: 0px;
+        left: 200px;
+    }
+
+    img.introImage {
+        width: 80px;
+        height: 80px;
+        position: relative;
+        top: 30px;
+        left: 200px;
+    }
+
+    p.img-s {
+        position: relative;
+        top: -50px;
+        left: 320px;
+        font-size: 10px;
+    }
+
+    p.p-s {
+        position: relative;
+        top: -30px;
+        left: 30px;
+        font-size: 10px;
+        width: 500px;
+    }
+
+    img.learnning-back{
+        position: relative;
+        top: 5px;
+        left: 0px;
+    }
+
+    section.learnning h3 {
+        position: relative;
+        top: -450px;
+        left: 200px;
+        font-size: 17px;
+    }
+
+    div.l-img p {
+        font-size: 10px;
+    }
+
+    img.htmlCss {
+        width: 50px;
+        height: 50px;
+        position: relative;
+        top: -400px;
+        left: 0px;
+    }
+    
+    div.hc p{
+        position: relative;
+        top: -400px;
+        left: 0px;
+    }
+    
+    img.JavaScript {
+        width: 50px;
+        height: 50px;
+        position: relative;
+        top: -490px;
+        left: 120px;
+    }
+    
+    div.js p{
+        position: relative;
+        top: -490px;
+        left: 120px;
+    }
+    
+    img.Ruby {
+        width: 50px;
+        height: 50px;
+        position: relative;
+        top: -580px;
+        left: 250px;
+    }
+    
+    div.rb p{
+        position: relative;
+        top: -580px;
+        left: 250px;
+    }
+    
+    img.PHP {
+        width: 50px;
+        height: 50px;
+        position: relative;
+        top: -800px;
+        left: 400px;
+    }
+    
+    div.php p{
+        position: relative;
+        top: -990px;
+        left: 600px;
+    }
+
+}
