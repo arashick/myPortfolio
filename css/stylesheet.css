@@ -207,3 +207,9 @@ img.media-1 {
     left: 800px;
     color: white;
 }
+
+@media (max-width: 768px) {
+    body {
+        width: 50%;
+    }
+}
