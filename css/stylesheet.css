@@ -1,0 +1,209 @@
+body {
+    width: 1450px;
+    background-color: aqua;
+}
+
+header {
+    background-color: rgb(250, 127, 223);
+    height: 200px;
+}
+
+h1 {
+    font-size: 50px;
+    margin-left: 20px;
+    line-height: 150px;
+    float: left;
+    color:rgb(169, 130, 179);
+}
+
+li {
+    list-style: none;
+    float: right;
+    margin: 10px;
+    font-size: 30px;
+    line-height: 200px;
+}
+
+img {
+    width: 1450px;
+}
+
+img.top-image {
+    position:absolute;
+    top: 200px;
+    left: 8px;
+    height: 800px;
+}
+
+h2 {
+    position: relative;
+    font-size: 100px;
+    top: 200px;
+    left: 300px;
+    letter-spacing: 40px;
+    margin-bottom: 400px;
+    color:rgb(182, 176, 181);
+    font-family: 'Dancing Script', cursive;
+}
+
+section.introduce {
+    text-align: center;
+}
+
+img.introBack {
+    position: absolute;
+    top: 950px;
+    left: 8px;
+}
+
+h3 {
+    position: relative;
+    top: 0px;
+    left: 0px;
+    font-size: 80px;
+    letter-spacing: 10px;
+}
+
+.title {
+    color: rgb(1, 48, 255);
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
+img.introImage {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+p.img-s {
+    position: relative;
+    top: -100px;
+    left: 300px;
+    color:rgb(1, 183, 255);
+    -webkit-text-stroke: 0.5px blue;
+}
+
+p.p-s {
+    position: relative;
+    top: 0px;
+    left: 0px;
+    color:rgb(62, 9, 253);
+    text-shadow: 0px 0px 20px rgb(240, 255, 34);
+}
+
+img.learnning-back {
+    position: absolute;
+    top: 1760px;
+    left: 8px;
+}
+
+section.learnning {
+    text-align: center;
+}
+
+section.learnning h3 {
+    position: relative;
+    top: 50px;
+    left: 0px;
+}
+
+div.l-img p {
+    font-size: 30px;
+}
+
+img.htmlCss {
+    width: 400px;
+    position: relative;
+    top: 50px;
+    left: -500px;
+}
+
+div.hc p{
+    position: relative;
+    top: 100px;
+    left: -500px;
+}
+
+img.JavaScript {
+    width: 300px;
+    height: 250px;
+    position: relative;
+    top: -300px;
+    left: -100px;
+}
+
+div.js p{
+    position: relative;
+    top: -270px;
+    left: -100px;
+}
+
+img.Ruby {
+    width: 300px;
+    height: 250px;
+    position: relative;
+    top: -660px;
+    left: 250px;
+}
+
+div.rb p{
+    position: relative;
+    top: -630px;
+    left: 250px;
+}
+
+img.PHP {
+    width: 300px;
+    height: 250px;
+    position: relative;
+    top: -1020px;
+    left: 600px;
+}
+
+div.php p{
+    position: relative;
+    top: -990px;
+    left: 600px;
+}
+
+p.l-s {
+    position: relative;
+    top: -900px;
+    left: 0px;
+    color:rgb(155, 9, 253);
+    font-size: 20px;
+    letter-spacing: 3px;
+    line-height: 50px;
+    font-weight: bold;
+    -webkit-text-stroke: 0.7px rgb(0, 0, 0);
+}
+
+img.media-back {
+    position: absolute;
+    top: 2845px;
+    left: 8px;
+}
+
+section.media h3 {
+    position: relative;
+    top: -750px;
+    left: 500px;
+    color: white;
+}
+
+img.media-1 {
+    position: relative;
+    top: -800px;
+    left: 800px;
+    width: 600px;
+}
+
+.media-s {
+    position: relative;
+    top: -800px;
+    left: 800px;
+    color: white;
+}
