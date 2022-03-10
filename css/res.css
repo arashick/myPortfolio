@@ -11,8 +11,12 @@
         font-size: 30px;
     }
 
+    ul {
+        margin-left: 100px;
+    }
+
     li {
-        float: right;
+        float: left;
     }
 
     img {
