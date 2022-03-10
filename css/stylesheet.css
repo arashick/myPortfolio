@@ -17,9 +17,13 @@ h1 {
     color:rgb(169, 130, 179);
 }
 
+ul {
+    margin-left: 800px;
+}
+
 li {
     list-style: none;
-    float: right;
+    float: left;
     margin: 10px;
     font-size: 30px;
     line-height: 200px;
